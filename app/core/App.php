@@ -7,7 +7,7 @@ class App {
 
 
     public function __construct()
-    {
+        {
         // controller
         $url = $this->parse_url();
         
